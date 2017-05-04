@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="jobs">
+        <item>请选择</item>
+        <item>工位1</item>
+        <item>工位2</item>
+        <item>工位3</item>
+    </string-array>
+</resources>
